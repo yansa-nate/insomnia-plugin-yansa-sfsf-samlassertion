@@ -1,16 +1,15 @@
 {
-  "name": "insomnia-plugin-sfsf-samlassertion",
+  "name": "insomnia-plugin-yansa-sfsf-samlassertion",
   "version": "1.1.4",
   "description": "Insomnia Plugin: SAML Assertion generator for SAP SuccessFactors API's",
   "main": "app.js",
-  "author": "Éder Souza <edersouza38@gmail.com>",
+  "author": "Nate Anderson <nate.anderson@yansalabs.com>",
   "license": "ISC",
-  "homepage": "https://github.com/edersouza38/insomnia-plugin-sfsf-samlassertion",
   "repository": {
     "type": "git",
-    "url": "https://github.com/edersouza38/insomnia-plugin-sfsf-samlassertion.git"
+    "url": "https://github.com/yansa-nate/insomnia-plugin-yansa-sfsf-samlassertion.git"
   },
-  "bugs": "https://github.com/edersouza38/insomnia-plugin-sfsf-samlassertion/issues",
+  "bugs": "https://github.com/yansa-nate/insomnia-plugin-yansa-sfsf-samlassertion/issues",
   "insomnia": {
     "name": "sfsf-samlassertion",
     "displayName": "SAML Assertion generator for SAP SuccessFactors API's",
